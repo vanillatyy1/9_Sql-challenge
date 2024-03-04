@@ -7,6 +7,7 @@ Research project on Pewlett Hackard *fictional company*'s employees from the 198
 **Data Modeling:**
 
 (1) Inspect CSV files.
+
 (2) Sketch Entity Relationship Diagram (ERD) using QuickDBD.
 
 ![QuickDBD Diagram](https://github.com/vanillatyy1/9_Sql-challenge/blob/268ac0311613e8ffb91f377c5a9c695d03b89c0a/EmployeeSQL/QuickDBD_Diagram.png)
