@@ -2,7 +2,7 @@
 
 # Objective: 
 
-Research project on Pewlett Hackard *fictional company*'s employees from the 1980s and 1990s.
+Research project on Pewlett Hackard (*fictional company*)'s employees from the 1980s and 1990s.
 
 **Data Modeling:**
 
